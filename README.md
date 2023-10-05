@@ -1,5 +1,5 @@
 # Boston-house-prices-
-## we are going to try using a simple sequential model to predict the Boston house prices
+we are going to try using a simple sequential model to predict the Boston house prices
 ## Approach for the dataset:
 - Read the data into a Data frame then set the columns right as it has only one column with all the data mixed together
 - Get some info from the describe method which showed us that there are outliers
